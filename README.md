@@ -1,4 +1,6 @@
-### Hello! More coming soon here...
+Hello! I'm Mike 😊
+
+I graduated from a software development bootcamp Spring 2023
 
 <!--
 **MikeRose151/MikeRose151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
