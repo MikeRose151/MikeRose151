@@ -1,23 +1,9 @@
-Hello! I'm Mike 😊
+Hello! 👋
 
-I am a software developer who looks to make a positive impact on the world.
+I'm Mike (he/him), a **full-stack software developer** who looks to make a positive impact on the world.
 
-You can check out some of my projects at [mikerose.xyz](https://mikerose.xyz/)
+You can check out some of my projects at [mikerose.xyz](https://mikerose.xyz/).
 
-<!--
-**MikeRose151/MikeRose151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am looking to work for an exciting company where I can make a meaningful impact through my work.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Ideas:
-Graph with time on x axis and XP on y axis
--->
+You can reach me at michaelrose151@gmail.com
