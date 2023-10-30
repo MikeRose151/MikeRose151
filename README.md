@@ -2,7 +2,7 @@ Hello! I'm Mike 😊
 
 I am a software developer who looks to make a positive impact on the world.
 
-You can check out some of my projects at mikerose.xyz
+You can check out some of my projects at [mikerose.xyz]("https://mikerose.xyz/")
 
 <!--
 **MikeRose151/MikeRose151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
