@@ -1,6 +1,8 @@
 Hello! I'm Mike 😊
 
-I graduated from a software development bootcamp Spring 2023
+I am a software developer who looks to make a positive impact on the world.
+
+You can check out some of my projects at mikerose.xyz
 
 <!--
 **MikeRose151/MikeRose151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
